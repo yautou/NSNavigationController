@@ -13,4 +13,4 @@ Grab NSNavigationController.h & NSNavgationController.m into your Xcode project,
 
 ## License
 
-NSNavigationController is released under the MIT license. See LICENSE for details.
+NSNavigationController is released under the MIT license. See [LICENSE](https://github.com/yautou/NSNavigationController/blob/master/LICENSE) for details.
